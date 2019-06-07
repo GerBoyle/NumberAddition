@@ -7,7 +7,7 @@ package my.numberaddition;
 
 /**
  *
- * @author gboyle
+ * @author gboyletest
  */
 public class NumberAdditionUI extends javax.swing.JFrame {
 
